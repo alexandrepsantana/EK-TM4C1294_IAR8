@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.5\common\bin\cspybat" -f "C:\Users\hviei\Documents\GitHub\EK-TM4C1294_IAR8\Projects\simple_io_main_sp\settings\simple_io_main_sp.Debug.general.xcl" --backend -f "C:\Users\hviei\Documents\GitHub\EK-TM4C1294_IAR8\Projects\simple_io_main_sp\settings\simple_io_main_sp.Debug.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "C:\Users\Alexandre\Documents\GitHub\EK-TM4C1294_IAR8\Projects\simple_io_main_sp\settings\simple_io_main_sp.Debug.general.xcl" --backend -f "C:\Users\Alexandre\Documents\GitHub\EK-TM4C1294_IAR8\Projects\simple_io_main_sp\settings\simple_io_main_sp.Debug.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.5\common\bin\cspybat" -f "C:\Users\hviei\Documents\GitHub\EK-TM4C1294_IAR8\Projects\simple_io_main_sp\settings\simple_io_main_sp.Debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\hviei\Documents\GitHub\EK-TM4C1294_IAR8\Projects\simple_io_main_sp\settings\simple_io_main_sp.Debug.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "C:\Users\Alexandre\Documents\GitHub\EK-TM4C1294_IAR8\Projects\simple_io_main_sp\settings\simple_io_main_sp.Debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\Alexandre\Documents\GitHub\EK-TM4C1294_IAR8\Projects\simple_io_main_sp\settings\simple_io_main_sp.Debug.driver.xcl" 
 
 @echo off 
 :end

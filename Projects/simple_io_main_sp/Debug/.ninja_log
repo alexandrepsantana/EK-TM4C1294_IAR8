@@ -1,0 +1,5 @@
+# ninja log v5
+2	561	6370347991259805	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/simple_io_main_sp/Debug/Obj/startup_TM4C1294.o	12267c40794abb14
+506	782	6370347993379926	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/simple_io_main_sp/Debug/Obj/simple_io_main_sp.o	f7f35a681d818113
+564	842	6370347993989961	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/simple_io_main_sp/Debug/Obj/system_TM4C1294_TW.o	2033607672281cd7
+848	2983	6370348015351183	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/simple_io_main_sp/Debug/Exe/simple_io_main_sp.out	25e37ab1a9ba6473
