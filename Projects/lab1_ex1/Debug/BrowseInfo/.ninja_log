@@ -1,0 +1,15 @@
+# ninja log v5
+329	1212	6370327310000000	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/simple_io_main_sp/Debug/BrowseInfo/system_TM4C1294_TW.xcl	26b3cbc658c3bec5
+1	1532	6370327310000000	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.xcl	fb371bf5a802ddaa
+1548	1665	6370327317127312	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	dcc4f1822606b541
+1219	1753	6370327317997362	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/simple_io_main_sp/Debug/BrowseInfo/system_TM4C1294_TW.pbi	7808e56f6727066b
+1757	2165	6370327322127598	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	2c41cbb9f718751
+2168	4656	6370327346739006	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	ac87330326a6936f
+2	80	6370347065136834	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbi	dcc4f1822606b541
+10	173	6370347066056886	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/simple_io_main_sp/Debug/BrowseInfo/system_TM4C1294_TW.pbi	7808e56f6727066b
+175	219	6370347066536914	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbd	2c41cbb9f718751
+222	1291	6370347076967510	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/simple_io_main_sp/Debug/BrowseInfo/simple_io_main_sp.pbw	ac87330326a6936f
+0	421	6377288690000000	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab1_ex1/Debug/BrowseInfo/system_TM4C1294_TW.xcl	7e1d6826a28f7913
+426	612	6377288700767673	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab1_ex1/Debug/BrowseInfo/system_TM4C1294_TW.pbi	ceb4bd882fc95119
+615	678	6377288701447712	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab1_ex1/Debug/BrowseInfo/lab1_ex1.pbd	dd610ab33dff34f8
+680	1949	6377288713798418	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab1_ex1/Debug/BrowseInfo/lab1_ex1.pbw	88d4cfe243393998
