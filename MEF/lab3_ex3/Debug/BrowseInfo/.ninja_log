@@ -1,0 +1,27 @@
+# ninja log v5
+377	1113	6377244930000000	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.xcl	cb79d72d96bd602f
+1	1231	6377244930000000	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/driverleds.xcl	37f56a52d924f3e1
+1119	1574	6377244930000000	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/system_TM4C1294_TW.xcl	e6bd1b23332170cb
+1582	1786	6377244941064761	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbi	50423afb42cbfa6d
+1244	1798	6377244941174767	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/driverleds.pbi	d9d818598930ede5
+1789	1996	6377244943114878	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/system_TM4C1294_TW.pbi	e606acc722ffe2c5
+1999	2391	6377244947115107	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbd	45b217a0f8ddf710
+2395	4354	6377244966466214	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbw	8b2d03a993aa4e7d
+3	65	6377250871363955	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbi	50423afb42cbfa6d
+69	118	6377250871903985	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbd	45b217a0f8ddf710
+122	1084	6377250881264521	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbw	8b2d03a993aa4e7d
+3	62	6377252446054022	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbi	50423afb42cbfa6d
+65	113	6377252446584052	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbd	45b217a0f8ddf710
+119	1017	6377252455314551	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbw	8b2d03a993aa4e7d
+3	68	6377253514745147	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbi	50423afb42cbfa6d
+73	137	6377253515455188	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbd	45b217a0f8ddf710
+142	1190	6377253525665772	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbw	8b2d03a993aa4e7d
+2	84	6377256048680080	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbi	50423afb42cbfa6d
+87	148	6377256049440124	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbd	45b217a0f8ddf710
+2	873	6377256115253888	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbw	8b2d03a993aa4e7d
+2	94	6377257528774737	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbi	50423afb42cbfa6d
+97	181	6377257529654787	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbd	45b217a0f8ddf710
+185	1563	6377257543035552	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbw	8b2d03a993aa4e7d
+2	64	6377266975965085	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbi	50423afb42cbfa6d
+67	117	6377266976505116	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbd	45b217a0f8ddf710
+122	1046	6377266985515631	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/BrowseInfo/lab3_ex3.pbw	8b2d03a993aa4e7d

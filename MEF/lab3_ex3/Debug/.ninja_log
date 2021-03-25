@@ -1,0 +1,8 @@
+# ninja log v5
+1	516	6377256027138848	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/Obj/startup_TM4C1294.o	8d5eb4d5aa711f9d
+521	770	6377256029548986	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/Obj/lab3_ex3.o	45cb1a6dc2d936a6
+475	877	6377256030639048	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/Obj/driverleds.o	3d819c7a01764312
+778	943	6377256031329088	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/Obj/system_TM4C1294_TW.o	491c82164a7d86b4
+951	1660	6377256038499498	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/Exe/lab3_ex3.out	798534869b92d577
+63	155	6377257514243906	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/Obj/lab3_ex3.o	45cb1a6dc2d936a6
+161	223	6377257514933945	C:/Users/Alexandre/Documents/GitHub/EK-TM4C1294_IAR8/Projects/lab3_ex3/Debug/Exe/lab3_ex3.out	798534869b92d577
